@@ -188,7 +188,7 @@ pip install pandas matplotlib scikit-learn
 
 **KANISHK A M**
 
-GitHub: https://github.com/your-kanishk-am
+GitHub: https://github.com/kanishk-am
 
 ---
 
