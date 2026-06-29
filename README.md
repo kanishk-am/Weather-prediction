@@ -1,6 +1,6 @@
-# 🌳 Weather Prediction using Decision Tree Classifier
+# Weather Prediction using Decision Tree Classifier
 
-## 📌 Project Overview
+##  Project Overview
 
 This project demonstrates how to use a **Decision Tree Classifier** to predict whether outdoor conditions are suitable for playing based on weather features. The model is trained on a small weather dataset and uses categorical data encoded into numerical values before training.
 
@@ -8,7 +8,7 @@ The project also visualizes the trained Decision Tree, making it easy to underst
 
 ---
 
-## 🚀 Features
+##  Features
 
 * Uses a Decision Tree Classifier for prediction.
 * Encodes categorical data using Label Encoding.
@@ -18,7 +18,7 @@ The project also visualizes the trained Decision Tree, making it easy to underst
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 Weather-Prediction-Decision-Tree/
@@ -30,7 +30,7 @@ Weather-Prediction-Decision-Tree/
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Python 3
 * Pandas
@@ -39,7 +39,7 @@ Weather-Prediction-Decision-Tree/
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 The dataset contains weather-related attributes used to determine whether playing outdoors is recommended.
 
@@ -61,7 +61,7 @@ The dataset contains weather-related attributes used to determine whether playin
 
 ---
 
-## ⚙️ Machine Learning Workflow
+## Machine Learning Workflow
 
 1. Create the weather dataset.
 2. Encode categorical values using `LabelEncoder`.
@@ -72,7 +72,7 @@ The dataset contains weather-related attributes used to determine whether playin
 
 ---
 
-## 📦 Installation
+## Installation
 
 Clone the repository:
 
@@ -100,7 +100,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Running the Project
+## Running the Project
 
 Run the Python script:
 
@@ -125,7 +125,7 @@ Prediction: NO 🌧️ (Don't Play)
 
 ---
 
-## 📈 Output
+##  Output
 
 The program provides:
 
@@ -134,7 +134,7 @@ The program provides:
 
 ---
 
-## 🧠 Machine Learning Model
+##  Machine Learning Model
 
 ### Algorithm
 
@@ -153,7 +153,7 @@ The program provides:
 
 ---
 
-## 📚 Future Improvements
+##  Future Improvements
 
 * Train on a larger real-world weather dataset.
 * Allow users to enter weather conditions interactively.
@@ -168,7 +168,7 @@ The program provides:
 
 ---
 
-## 📦 Requirements
+##  Requirements
 
 ```text
 pandas
@@ -184,14 +184,10 @@ pip install pandas matplotlib scikit-learn
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **KANISHK A M**
 
 GitHub: https://github.com/kanishk-am
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License.
